@@ -8,7 +8,7 @@
 
 ```
 design/           设计文档（v2.1终稿 + inbox原始素材5份 + 战场示意图 + 资产联系表）
-assets/
+reference-assets/
   INVENTORY.md    资产清单与复现命令（Kenney下载方法全流程）
   sources/        Kenney CC0 模型包zip（5个套件，263个GLB）
   sheets/         联系表4张（车辆/建筑/地块/战场示意，720×1280）
@@ -37,5 +37,5 @@ assets/
 
 ## 许可
 
-- `assets/sources/` 内模型：CC0（[Kenney.nl](https://kenney.nl)），各包许可证见 `assets/licenses/`
+- `reference-assets/sources/` 内模型：CC0（[Kenney.nl](https://kenney.nl)），各包许可证见 `reference-assets/licenses/`
 - 设计文档与代码：私有，保留所有权利
